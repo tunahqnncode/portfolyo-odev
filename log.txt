@@ -52,3 +52,7 @@ a1af0d35ef5f85f63312503621d3460c8b6be0ca ---> img bağlantısını nav içerisin
 1d2ec7cbccbb31ae2c2a64f20fbd4cec1e888428 ---> indentation güncellemesi yap
 2dcbb7aa150f689d69b850875761457a213d4292 ---> indentation güncellemesi yap
 0e818f4cb3716ab34bdb1350505b66e18b7ef823 ---> README.md dosyası oluşturuldu ve içeriği yazıldı.
+2547b2e9bbe391a9fad40e802b8fb1b56594adc0 ---> log.txt oluştur ve içine git logları yaz
+0767921a43b84fed6822ff05cf359060e7373d2c ---> github pages ile yayına alındı bağlantısı ekle
+47c20eacefdb348baa42423f29883dfe26235001 ---> instagram-icon.png ekle
+551f0e7e3d6ec4ae62ac69abc6ff8b253a0e1b95 ---> instagram-icon.png fotoğraf bağlantısı değiştir.
