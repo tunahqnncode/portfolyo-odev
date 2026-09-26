@@ -1,0 +1,54 @@
+cc9b05240b146d24ce9c1dcfc655c0c0bf0ee687 ---> index.html dosyası oluştur.
+9322f20d7c0691a9bdf3d5b119220d5a197d32fb ---> header,main,footer iskeleti oluştur.
+4aef340d672195df75b9131e4691349b347c014f ---> üst bilgi gezinme bağlantısı oluştur.
+d67f324ee5a445cfb2b2124d990cc437615175ae ---> footer alanına telif hakkı bilgisini ekle
+fba063a1802afc73f1aa9af989ad823034353154 ---> career klasörü içinde index.html oluştur
+fba063a1802afc73f1aa9af989ad823034353154 ---> header,mian,footer iskeleti oluştur.
+e85c022db693382b616f8c1b0288445a1200cc5c ---> üst bilgi gezinme bağlantısı oluştur.
+f2d338ec934a60c4c3fbf3347a4b680404c9edd3 ---> footer alanına telif hakkı bilgisini ekle
+ec4b447082e39e0fc230ca91140e1d5cea182dfa ---> project klasörü içinde index.html oluştur.
+36ac7213e3c16b440909700bf67cdd3e5b1b5ab5 ---> header,main, footer iskeletini oluştur.
+003909d1776207222516c18b80f0ab7830f7ef84 ---> üst bilgi gezinme bağlantısı oluştur.
+628daef1838fdbc118d181416a7a43481b7035ec ---> footer alanına telif hakkı bilgisini ekle
+55be86640d294909b901eae28d17b089448af1e5 ---> project klasörü içinde details.html oluştur.
+b5f27c9dd756cfc8ee2778806b4be43ddfe6175c ---> header,main,footer iskeletini oluştur.
+1323433f40fa18b32f95c0a2d3d89c67de468ddb ---> header navigasyon bağlantılarını ekle
+b6a4b6547ae8d6b177d221bedf742bb0427dd8e0 ---> footer alanına telif hakkı bilgisini ekle
+88234c757627c0be0894fac89dffce9b7682d4cb ---> contact klasörü içinde index.html oluştur.
+dc37ea21223b2997fef4c09cdada6eb4cf559405 ---> header,main,footer iskeletini oluştur.
+287f88cf439162c0c7bad16aa4fc92f4c6fdcba5 ---> header navigasyon bağlantılarını ekle
+ead06ccc7e53151beb335a2fb47c324863d48036 ---> footer alanına telif hakkı bilgisini ekle
+b197e325d8259a986368692738db3a8997b6ae83 ---> nav içine anasayfa yazısı eklendi, contact ismi doğrusu ile düzenlendi
+033e543cbbf645757d850a3b4412047c1c982553 ---> iletişim kısmında eksik olan projeler yazısı eklendi.
+6480453e1d67b3518f54a167ff2ab42e76a2dd72 ---> projeleri ve github bağlantılarını tabloya ekle
+e32fd99138e38377771a3970a326cd9ac219e601 ---> projeler için açıklama ve detay sayfaları ekle
+ae90f4a85e045d5e9aa1bd4797416d805c5587f4 ---> headerda kullanmak için instagram,linkedin ve github görselleri ekle
+252070cdd3ff2bb232b10dd9732798d249387377 ---> sosyal medya profil bağlantılarını ekle
+bac26d139548bd42c223ae74e47c676e1f15f1b6 ---> sosyal medya profil bağlantılarını ekle
+8ca2f3321c061e89daf8fb8cbbdca762a2fb5677 ---> sosyal medya profil bağlantılarını ekle
+220a3c61fbd37182e8b7f217d09c36dea1105462 ---> sosyal medya profil bağlantılarını ekle
+453cb2770ba1ff51e7835db7a5d0f68c334b37fb ---> sosyal medya profil bağlantılarını ekle
+efdde5ffe9d300e0ba456ab42ceded4b20371e26 ---> projeler içinde index.htmlde tablo ile oluşturulan projeler kısmı article ile değiştir.
+36352a31c3b9be7ac9469c8b6de9b42249ca456f ---> contact/index.html içinde ilteişim sayfalarını ekle
+c40f220a9dcca904807279253352a44ddf723d72 ---> email.png ekle
+bb885886c491b5213a7cd2d4d14b06018cd0aa32 ---> sıkça sorulan sorular bölümü ekle
+f0badbeb49e991eab4c7aefb786cb19db04e9c0a ---> h2 ve p ile benimle iletişime geç yazısı ekle
+ed32f41239bf3d323cb588aed253b8bc026ef0a1 ---> birlikte çalışalım için form ekle
+e36da1394c14da3e0d3f4a3cc0349636a948ff42 ---> sıkça sorulan sorular kısmına footera al 
+99a439ceeead31043f5c2c0264f34e3a1a3f88b9 ---> kariyer sayfasına html ile cv ekle 
+5c6a226ed1f498be15a50ff16edd554370926ef6 ---> tunahan ve tunahançizim resimleri ekle
+c1b0195db854424c4da8839fe56c24832453b80d ---> anasayfaya kısaca ben açıklaması yap, tunahan çizim görselini ekle
+3b9253df00db0f05d42f80f072dfae735430dd37 ---> neler yapıyorum sayfalarınm başlıklarını açıklamaları ile birlikte ekle
+9068050d1dd78483e4d079d0e051c712e5323173 ---> sayfalarım başlığı altındaki iletişim sayfa bağlantısını düzelt
+4885eeb0e8c7047c5ea62b59de6d4dd65d7420b6 ---> tunahqnncode-logo.png ekle
+a4b421bed8cc0eb5806083e1ef968e0ed4683d41 ---> tunahqnncode-logo.svg ekle
+a4b421bed8cc0eb5806083e1ef968e0ed4683d41 ---> tunahqnncode logosunu header içerisinde nav bara ekle
+9e7a962ddc2e9c53b261b98e13e43dd68a05a266 ---> tunahqnncode logosunu header içerisinde nav bara ekle
+7259f76af04b1e1a36b138a293c66913dd4f1d0a ---> tunahqnncode logosunu header içerisinde nav bara ekle
+3fec291f297622a907514206a47611731d9156c2 ---> tunahqnncode logosunu header içerisinde nav bara ekle
+b1f5bd4ab293f3d11853367d42ad9668c4f66515 ---> tunahqnncode logosunu header içerisinde nav bara ekle
+69c08959c6d480f44545fd70015e7833d3d445ad ---> img içinde dosya yolu düzenlemesi yap
+a1af0d35ef5f85f63312503621d3460c8b6be0ca ---> img bağlantısını nav içerisine al
+1d2ec7cbccbb31ae2c2a64f20fbd4cec1e888428 ---> indentation güncellemesi yap
+2dcbb7aa150f689d69b850875761457a213d4292 ---> indentation güncellemesi yap
+0e818f4cb3716ab34bdb1350505b66e18b7ef823 ---> README.md dosyası oluşturuldu ve içeriği yazıldı.
