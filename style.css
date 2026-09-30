@@ -1,3 +1,13 @@
+*, *::before, *::after {
+
+  box-sizing: border-box;
+
+}
+
 a:hover{
     color: brown;
+}
+
+.box{
+    border: 1px solid black;
 }
