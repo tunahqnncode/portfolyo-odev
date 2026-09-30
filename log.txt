@@ -56,3 +56,16 @@ a1af0d35ef5f85f63312503621d3460c8b6be0ca ---> img bağlantısını nav içerisin
 0767921a43b84fed6822ff05cf359060e7373d2c ---> github pages ile yayına alındı bağlantısı ekle
 47c20eacefdb348baa42423f29883dfe26235001 ---> instagram-icon.png ekle
 551f0e7e3d6ec4ae62ac69abc6ff8b253a0e1b95 ---> instagram-icon.png fotoğraf bağlantısı değiştir.
+
+---CSS Sonrası loglar---
+9522e9d (HEAD -> main) fom etiketine box classı ver.
+bd8cb18 Title sınıfına kırmızı renk stili ekle
+7df7c5d h2 etiketlerine title class'ı ver
+cd060a8 divlere box class'ı ver
+1ff8fc9 div class'ı box olanlara border ver
+6d85dbb index.html içerisinde article ile oluşturulan yapıyı div ile gurupla
+0871bda index.html içerisinde article ile oluşturulan yapıyı div ile gurupla
+a82abeb style.css link bağlantısı düzenlendi
+1b92979 Linklerin hover durumunda rengini değiştir
+32db314 link komutu ile CSS dosyasını HTML sayfasına bağla
+f3fa268 style.css dosyası oluştur.
