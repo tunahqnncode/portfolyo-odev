@@ -1,3 +1,15 @@
+
+*, *::before, *::after {
+
+  box-sizing: border-box;
+
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url("fonts/lexend-v26-latin-ext-regular.woff2") format("truetype");
+}
+
 :root{
     ---background: #134074;
     --foreground: #eef4ed;
@@ -9,12 +21,7 @@
 
 body{
     background-color: var(---background);
-}
-
-*, *::before, *::after {
-
-  box-sizing: border-box;
-
+    font-family: "Lexend", system-ui, -apple-system, sans-serif;
 }
 
 .logo{
