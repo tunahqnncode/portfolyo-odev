@@ -69,3 +69,11 @@ a82abeb style.css link bağlantısı düzenlendi
 1b92979 Linklerin hover durumunda rengini değiştir
 32db314 link komutu ile CSS dosyasını HTML sayfasına bağla
 f3fa268 style.css dosyası oluştur.
+866a8e2 (HEAD -> main) logonun boyuna ayarla
+3880c9e header içindeki img'ye logo class'ı ekle
+90c77fe push color tanımla, a etiketine tıklanınca o rengi ver
+da0a32d a etiketlerine aria-current="page" ekle
+4ed4bd7 arka plana, başlıklara paragraflara, tabloya, formlara ayarlı renkleri ver
+ca1c909 table içindeki border komutlarını sil
+7906ea1 career/index.html içinde table'ye yazılan border=1'i sil
+a69e5ac style.css içinde renk tanımlamaları yapıldı.
