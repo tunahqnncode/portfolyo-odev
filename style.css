@@ -3,6 +3,7 @@
     --foreground: #eef4ed;
     --title-color: #aec3b0;
     --link-color: #aec3b0;
+    --push-color: #a0c1d6;
     --border-color: #0b2545;
 }
 
@@ -51,6 +52,10 @@ a{
 
 a:hover{
     color: brown;
+}
+
+a:visited {
+    color: var(--push-color);
 }
 
 .box{
