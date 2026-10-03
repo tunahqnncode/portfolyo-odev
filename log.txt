@@ -77,3 +77,5 @@ da0a32d a etiketlerine aria-current="page" ekle
 ca1c909 table içindeki border komutlarını sil
 7906ea1 career/index.html içinde table'ye yazılan border=1'i sil
 a69e5ac style.css içinde renk tanımlamaları yapıldı.
+4d41ce4 (HEAD -> main) fontu tanımla ve font family ile kullan
+9310dfb lexend fontunu yükle
