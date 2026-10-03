@@ -1,7 +1,13 @@
 :root{
     ---background: #134074;
     --foreground: #eef4ed;
+    --title-color: #aec3b0;
+    --link-color: #aec3b0;
     --border-color: #0b2545;
+}
+
+body{
+    background-color: var(---background);
 }
 
 *, *::before, *::after {
@@ -10,14 +16,47 @@
 
 }
 
+h1,h2,h3,h4,h5,h6{
+    line-height: 1.2;
+    letter-spacing: -0.015em;
+    color: var(--title-color);
+}
+
+p{
+    color: var(--foreground);
+    line-height: 1.6;
+
+}
+
+ul,li{
+    color: var(--foreground);
+}
+
+table{
+    border: 1px solid var(--border-color);
+}
+
+thead,tbody{
+    color: var(--foreground);
+}
+
+form{
+    color: var(--border-color);
+}
+
+a{
+    color: var(--link-color);
+    text-decoration: none;
+}
+
 a:hover{
     color: brown;
 }
 
 .box{
-    border: 1px solid black;
+    border: 1px solid var(--border-color);
 }
 
 .title{
-    color: red;
+    color: var(--title-color);
 }
